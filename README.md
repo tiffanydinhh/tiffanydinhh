@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 > 💬 I am a 2nd-year Computer Science student at Cal Poly Pomona with a passion for web development, UI/UX, human-computer interaction, and full-stack development.
+
 > 🌱 I have developed my skills by applying my knowledge to personal projects where I focus on building user-focused websites, while strengthening my coding, technical, and problem-solving skills.
+
 > 🔭 As a woman in CS, I am proud to represent minorities within the STEM field.
