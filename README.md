@@ -1,4 +1,4 @@
-## Hi there, my name is Tiffany! 👩🏻‍💻 
+## Hi, my name is Tiffany! 👩🏻‍💻 
 
 <!--
 **tiffanydinhh/tiffanydinhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
