@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 I am a third year Computer Science student at Cal Poly Pomona with a passion for web development, UI/UX, human-computer interaction, and graphic design.
-- 🌱 I have developed my skills by applying my knowledge to personal projects where I focus on building user-focused websites while strengthening my coding, technical, and problem-solving skills.
-- 🔭 I am currently working on a portfolio website that will showcase all of my projects.
-- 📫 How to reach me: tiffanydinhh@gmail.com
+💬 Computer Science Student @ Cal Poly Pomona with a passion for web development, UI/UX, human-computer interaction, and graphic design.
+🌱 I have developed my skills by applying my knowledge to personal projects where I focus on building user-focused websites while strengthening my coding, technical, and problem-solving skills.
+🔭 I am currently working on a portfolio website that will showcase all of my projects.
+📫 How to reach me: tiffanydinhh@gmail.com
 
